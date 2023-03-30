@@ -42,7 +42,9 @@ True answer: C. Lake bottom
 
 # File structure
 QuestionAnswering_MultipleChoice_BERT/
+
 ├── Demo.ipynb
+
 └── README.md
 
 # Dependencies, basic commands and libraries
@@ -52,7 +54,7 @@ SentenceTransformer: Encodes text sentences into numeric vectors of height
 cosine_similarity: Calculate the similarity between two texts
 gradio: Create interactive user interfaces for the model
 
-#Contribute
+# Contribute
 If you want to contribute to our project, follow these steps:
 
 Fork the project.
@@ -60,5 +62,5 @@ Create a new branch on your fork.
 Make your changes on the new branch.
 Create a pull request to merge your changes into the main repository.
 
-#Author 
+# Author 
 This project was created by ShynBui.
