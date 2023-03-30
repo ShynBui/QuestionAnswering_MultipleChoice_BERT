@@ -31,6 +31,7 @@ Answer B: North and South East
 Answer C: North with  South East
 Answer D: North East
 True answer: D. North East
+
 2.
 Context: Lake C was used for artillery shelling and artillery training during world War II, but was then abandoned until April 1955, when it was selected by the team of the Luke as a perfect location to test the u-2 spy plane. The bottom of the lake provided the perfect tape that can do annoying aircraft tests, the height of the mountains of the valley of the grant valley and the nts ocean protects the test site from the eyes of prying and external intervention.
 Question: What made the test bar for the plane?
