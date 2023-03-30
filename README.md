@@ -48,6 +48,7 @@ QuestionAnswering_MultipleChoice_BERT/<br>
 
 # Dependencies, basic commands and libraries
 List of dependencies, basic commands and libraries required to run the .ipynb file.
+
 - pipeline: Deploy the model
 - SentenceTransformer: Encodes text sentences into numeric vectors of height
 - cosine_similarity: Calculate the similarity between two texts
