@@ -25,7 +25,7 @@ The model will give you the correct answer in the "output" box.
 # Data for test
 1.
 **Context:** The same " xx " system is used for other parts of the testing sites in NV. The Original Rectangular Base from 6 to 10 miles is now part of the so-called " room ", which is the rectangular base from 23 to 25.3 miles of prohibited air space. The area is connected to the nts indoor road network, and the road road leading south to mi and west to flat. The North-East of the lake leads to a well-maintained, well-maintained lake c road that runs through the Humboldt Hills. Previously it was leading to mines in the Jerome Basin, but it has improved since its closure. The Zigzag road passes through security checkpoints, but the prohibited area around the base extends more to the east. After exit from the prohibited area, lake c road descends east to the valley of the tikaboo valley, passing through the entrances to the dirt roads of several cattle farms, before they meet with main road 375, on the " off-Earth highway ", to the south of the Rachel. <br>
-**Question:** Where does the lake lake road lead to the lake?<br>
+**Question:** Where does the lake road lead to the lake?<br>
 **Answer A:** South East<br>
 **Answer B:** North and South East<br>
 **Answer C:** North with  South East<br>
