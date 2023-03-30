@@ -2,15 +2,15 @@
 The project is a machine learning model based on BERT architecture to find the answer to a Reading comprehension problem with multiple-choice answers. The ultimate goal of this work is to create a solution that helps solve problems to answer Reading comprehension problems without any reasoning or knowledge. The model focuses on solving Reading comprehension multiple choice questions of the easy and medium form (Factoid), suitable for students in grades six and seven. The model will help solve the self-explanatory WH question from a given text.
 
 # How to Install and Run the Project
-# Option1: 
+# Option 1: 
         Install Jupyter Notebook on your computer.
-        Download the .ipynb file from the GitHub repository.
-        Open the .ipynb file in Jupyter Notebook.
+        Download the Demo.ipynb file from the GitHub repository.
+        Open the Demo.ipynb file in Jupyter Notebook.
         Run command boxes to perform actions in files.
-# Option2:
+# Option 2:
         Open Google Colab.
-        Download the .ipynb file from the GitHub repository.
-        Open the .ipynb file in Google Colab.
+        Download the Demo.ipynb file from the GitHub repository.
+        Open the Demo.ipynb file in Google Colab.
         Run command boxes to perform actions in files.
         
 # How to Use the Project
@@ -18,7 +18,7 @@ While you open the interface with gradio
 You will have six tables to enter data. Respectively: 
 + Context (A given passage to model reading comprehension)
 + Question (Question regarding given data)
-+ Four answers (A, B, C, D)
++ Four answers (A, B, C, D)<br>
 After filling in those six tables, please click the submit button below.
 The model will give you the correct answer in the "output" box.
 
